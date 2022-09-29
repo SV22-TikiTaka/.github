@@ -3,7 +3,9 @@
 <br>
 
 ## Introduction
-나한테 무엇이든 말해봐
+인스타그램 스토리 공유를 기반으로 한 리액트 네이티브 앱 <br>
+컨텐츠를 생성하고 스토리에 공유를 하며 내 인스타그램 친구들과 소통하는 플랫폼<br><br>
+티키타카와 함께 무엇이든 말해봐
 **아무도 모르게🤫**
 
 Hey, Literally tell me anything! It's anonymous anyways 😏
