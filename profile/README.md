@@ -1,5 +1,7 @@
 # Tiki-Taka
 <br>
+![horizontal_logo](https://user-images.githubusercontent.com/78634177/193130185-89066c4b-7159-4eec-ba8b-85b43bddb091.png)
+
 
 # Introduce
 당신의 비밀을 알려주세요<br>**아무도 모르게🤫**
