@@ -2,17 +2,17 @@
 ![horizontal_logo](https://user-images.githubusercontent.com/78634177/193130185-89066c4b-7159-4eec-ba8b-85b43bddb091.png)
 <br>
 
-# Introduction
-### 나한테 무엇이든 말해봐
+## Introduction
+나한테 무엇이든 말해봐
 **아무도 모르게🤫**
 
-### Hey, Literally tell me anything! It's anonymous anyways 😏
-# System Architecture
+Hey, Literally tell me anything! It's anonymous anyways 😏
+## System Architecture
 <img width="100%" height="100%" alt="SA" src="https://user-images.githubusercontent.com/96862049/192411588-3268a582-678c-4af8-b1e0-2591f2e26564.png">
 
 <br>
 
-# 📚 TECH STACKS
+## 📚 TECH STACKS
 
 |Frontend|Backend|Monitoring|DevOps|
 |:------:|:---:|:---:|:---:|
@@ -22,7 +22,7 @@
 
 
 
-# Installation 
+## Installation 
 
 > Clone Repository
 ```
@@ -57,8 +57,9 @@ docker-compose up --build
 ```
 <br>
 
+## Features
 
-# Our Team
+## Our Team
 <table width="1000">
     <thead>
     </thead>
@@ -165,4 +166,5 @@ docker-compose up --build
      </tr>
     </tbody>
 </table>
+
 ---
