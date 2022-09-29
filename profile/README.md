@@ -59,9 +59,110 @@ docker-compose up --build
 
 
 # Our Team
-
-| 이름 | 신영진 | 김정현 | 김하린 | 유건 | 이승환 | 정훈희 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 역할 | Frontend | Backend | Backend | Backend | Frontend | Backend |
-| GitHub |  |  |  |  |  |  |
-
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Pictures</th>
+         <td width="100" align="center">
+            <a href="https://github.com/yjshin229">
+                <img src="https://user-images.githubusercontent.com/78634177/193137406-9d425c51-35f2-4768-9be8-0233a89dbdb4.png" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Leeseunghwan7305">
+                <img src="https://user-images.githubusercontent.com/78634177/193137358-4e2d0f79-1fc7-4c2e-9eac-5091f4e85493.png" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/JeongHunHui">
+                <img src="https://user-images.githubusercontent.com/78634177/193137351-ae31e1f6-47db-4220-82d1-bf4eed284f76.png" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/kjeongh">
+                <img src="https://user-images.githubusercontent.com/78634177/193137560-ffc50297-28ee-4322-abe1-ceee1b8b5fe6.png" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/kimhalin">
+                <img src="https://user-images.githubusercontent.com/78634177/193137395-c93317eb-b0e8-4228-b031-7bb95c6ec97d.png" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/dbrjs4594283">
+                <img src="https://user-images.githubusercontent.com/78634177/193137343-4c6428e0-8079-4dbd-8f15-0d2d838c8715.png" width="60" height="60">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">신영진</td>
+        <td width="100" align="center">이승환</td>
+        <td width="100" align="center">정훈희</td>
+        <td width="100" align="center">김정현</td>
+        <td width="100" align="center">김하린</td>
+        <td width="100" align="center">유건</td>
+    </tr>
+    <tr>
+        <th>Position</th>
+        <td width="150" align="center">
+            Frontend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Frontend<br>
+        </td>
+        <td width="150" align="center">
+            Frontend<br>
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/yjshin229">
+                <img src="http://img.shields.io/badge/yjshin229-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Leeseunghwan7305">
+                <img src="http://img.shields.io/badge/Leeseunghwan7305-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/JeongHunHui">
+                <img src="http://img.shields.io/badge/JeongHunHui-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/kjeongh">
+                <img src="http://img.shields.io/badge/kjeongh-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/kimhalin">
+                <img src="http://img.shields.io/badge/kimhalin-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/dbrjs4594283">
+                <img src="http://img.shields.io/badge/dbrjs4594283-green?style=social&logo=github"/>
+            </a>
+        </td>
+     </tr>
+    </tbody>
+</table>
+---
