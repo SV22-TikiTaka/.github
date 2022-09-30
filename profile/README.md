@@ -88,7 +88,7 @@ docker-compose up --build
     <tr>
     <th>History Page</th>
     <td width="450" align="center">
-         <img width="70%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+         <img width="70%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193360405-ee1d0fab-13b4-4034-8220-4695508b0a16.png'/>
     </td>
      <td width="450" align="center">
         인스타그램 스토리에 있는 컨텐츠의 링크를 통해 인스타그램 팔로워들로부터 받은 답변을 모아놓는 페이지
