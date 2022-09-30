@@ -61,6 +61,59 @@ docker-compose up --build
 
 ## Features
 
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+    <th>Login</th>
+    <td width="300" align="center">
+         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    </td>
+     <td width="300" align="center">
+         설명
+    </td>
+    </tr>
+     <tr>
+    <th>Create Contents</th>
+    <td width="300" align="center">
+         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193349174-c3b943e9-4010-48ca-b487-70214b553c1a.gif'/>
+    </td>
+     <td width="300" align="center">
+         설명
+    </td>
+    </tr>
+     <tr>
+    <th>Login</th>
+    <td width="300" align="center">
+         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    </td>
+     <td width="300" align="center">
+         설명
+    </td>
+    </tr>
+     <tr>
+    <th>Login</th>
+    <td width="300" align="center">
+         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    </td>
+     <td width="300" align="center">
+         설명
+    </td>
+    </tr>
+     <tr>
+    <th>Login</th>
+    <td width="300" align="center">
+         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    </td>
+     <td width="300" align="center">
+         설명
+    </td>
+    </tr>
+    </tbody>
+    </table>
+  
+
 ## Our Team
 <table width="1000">
     <thead>
