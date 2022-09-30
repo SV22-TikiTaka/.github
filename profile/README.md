@@ -67,47 +67,51 @@ docker-compose up --build
     <tbody>
     <tr>
     <th>Login</th>
-    <td width="300" align="center">
-         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    <td width="450" align="center">
+         <img width="70%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
     </td>
-     <td width="300" align="center">
-         설명
+     <td width="450" align="center">
+         인스타그램 로그인 API를 이용하여 앱 로그인 구현<br><br>
+         토큰을 통해 로그인여부를 결정
     </td>
     </tr>
      <tr>
     <th>Create Contents</th>
-    <td width="300" align="center">
-         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193349174-c3b943e9-4010-48ca-b487-70214b553c1a.gif'/>
+    <td width="450" align="center">
+         <img width="70%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193349174-c3b943e9-4010-48ca-b487-70214b553c1a.gif'/>
     </td>
-     <td width="300" align="center">
-         설명
+     <td width="450" align="center">
+         Anything, Challenge, Vote 세가지 형식으로 컨텐츠 생성기능 <br><br>
+         컨텐츠 생성 후 인스타그램 스토리로 공유 가능
+    </td>
+    </tr>
+    <tr>
+    <th>History Page</th>
+    <td width="450" align="center">
+         <img width="70%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    </td>
+     <td width="450" align="center">
+        인스타그램 스토리에 있는 컨텐츠의 링크를 통해 인스타그램 팔로워들로부터 받은 답변을 모아놓는 페이지
     </td>
     </tr>
      <tr>
-    <th>Login</th>
-    <td width="300" align="center">
-         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    <th>DarkMode</th>
+    <td width="450" align="center">
+         <img width="70%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193352498-5649e744-950c-4153-943c-5d46d969017f.gif'/>
     </td>
-     <td width="300" align="center">
-         설명
-    </td>
-    </tr>
-     <tr>
-    <th>Login</th>
-    <td width="300" align="center">
-         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
-    </td>
-     <td width="300" align="center">
-         설명
+     <td width="450" align="center">
+         Settings 페이지에서 토글을 통해 타크모드 설정 가능 <br><br>
+         앱 전역으로 모든 페이지에 다크모드 구현 
     </td>
     </tr>
      <tr>
-    <th>Login</th>
-    <td width="300" align="center">
-         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193348187-19189046-0ebb-43d5-b7d5-1370700e239f.gif'/>
+    <th>Web Reply</th>
+    <td height="450" align="center">
+         <img width="100%" justify="center" src = 'https://user-images.githubusercontent.com/78634177/193355616-456b5f3b-b80d-4c41-b6c4-c1fddca6de24.PNG'/>
     </td>
-     <td width="300" align="center">
-         설명
+     <td width="450" align="center">
+         앱사용자가 공유한 컨텐츠의 링크를 통해 웹에서 답변 가능 <br><br>
+         컨텐츠 공유 전 받는 답변의 형식 옵션 선택에 따라 웹 컴포넌트 
     </td>
     </tr>
     </tbody>
@@ -133,7 +137,7 @@ docker-compose up --build
         </td>
         <td width="100" align="center">
             <a href="https://github.com/JeongHunHui">
-                <img src="https://user-images.githubusercontent.com/108508730/193353033-7bd98a8e-3a03-415b-b6c8-6af7ff4ce562.png" width="60" height="60">
+                <img src="https://user-images.githubusercontent.com/78634177/193137351-ae31e1f6-47db-4220-82d1-bf4eed284f76.png" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
