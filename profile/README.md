@@ -137,7 +137,7 @@ docker-compose up --build
         </td>
         <td width="100" align="center">
             <a href="https://github.com/JeongHunHui">
-                <img src="https://user-images.githubusercontent.com/78634177/193137351-ae31e1f6-47db-4220-82d1-bf4eed284f76.png" width="60" height="60">
+                <img src="https://user-images.githubusercontent.com/108508730/193358112-c1b07064-d1b4-4a0d-80a0-1f421eb9da16.png" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
