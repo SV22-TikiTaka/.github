@@ -10,7 +10,7 @@
 
 Hey, Literally tell me anything! It's anonymous anyways 😏
 ## System Architecture
-<img width="100%" height="100%" alt="SA" src="https://user-images.githubusercontent.com/96862049/192411588-3268a582-678c-4af8-b1e0-2591f2e26564.png">
+<img width="100%" height="100%" alt="SA" src="https://user-images.githubusercontent.com/78634177/193357917-a337e4b5-fd54-4efe-89c3-ab274a00477c.png">
 
 <br>
 
