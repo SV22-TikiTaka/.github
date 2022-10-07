@@ -218,8 +218,8 @@ docker-compose up --build
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/dbrjs4594283">
-                <img src="http://img.shields.io/badge/dbrjs4594283-green?style=social&logo=github"/>
+            <a href="https://github.com/YuKeon97">
+                <img src="http://img.shields.io/badge/YuKeon97-green?style=social&logo=github"/>
             </a>
         </td>
      </tr>
